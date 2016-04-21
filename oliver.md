@@ -6,7 +6,7 @@ Senior software developer, experience with full stack solutions, proficient Java
 
 ### Programming languages
 
-**Java**: Developed several java server solutions, using application servers such as Teocat and Jetty and frameworks such as Spring and Struts.
+**Java**: Developed several java server solutions, using application servers such as Tomcat and Jetty and frameworks such as Spring and Struts.
 
 **Javascript**: Used javascript on client side, and recently on Node.JS. Enthusiastic about Meteor.JS, have used in the past several frameworks like Dojo toolkit, Angular, and  tools like JQuery, D3, raphael and others.
 
@@ -54,6 +54,8 @@ Provide technical consultancy for medium and large companies, typically as a sof
 
 ### Tesco p.l.c. (London/UK)
 
+December 2015 - present
+
 Produce working prototypes of new components for web and mobile applications
 Design and develop an internal toolkit to share design artifacts within the organization. All the development is done using Meteor.JS, Currently migrating the view layer from Blaze to React
 Migration of live services to AWS, defining what infrastructure is needed (VPCs, computing nodes, storage, databases etc.)
@@ -61,6 +63,8 @@ Migration of live services to AWS, defining what infrastructure is needed (VPCs,
 ## Technican director
 
 ### Mobile Worker Plus (Ashford Middlesex/UK)
+
+October 2013 - October 2015
 
 Provided technical authority for own products and customer developments
 Designed and developed scalable tracking solution for mobile workeforce management. Backend solution developed in Java using Spring and Hibernate. Frontend client using Dojo/Dijit on the frontend and native apps on BlackBerry(deprecated) and Android
