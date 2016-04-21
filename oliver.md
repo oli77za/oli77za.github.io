@@ -30,10 +30,15 @@ Senior software developer, experience with full stack solutions, proficient Java
 
 ### Protocols
 **TCP/IP**: In depth knowledge of IP protocols, routing firewalling. Development of low level client/server architectures, both with threading and multiplexing
+
 **Ethernet**: Bridging, spanning tree, loadbalancing
+
 **SNMP**: Developed monitoring solutions based on SNMP agents and managers. Good understanding of ASN.1
+
 **WebSockets**: Working experience with low level WebSockets
+
 **GSM/MAP and ISUP**: Extensive experience with GSM protocols. Ability to analyse traces of GSM/MAP, ISUP and other telco protocols
+
 **SMPP**: Developed several client server systems using SMPP 3.4 for sending and receiving short messages.
 
 # Experience
