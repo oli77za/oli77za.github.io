@@ -70,12 +70,16 @@ Designed the infrastructure setup for the operation of the company
 
 ### SynergizeIT
 
+March 2011- October 2013
+
 Designed and developed internal and customer web products in Java.
 Designed and developed a low latency communications gateway to integrate into telco networks
 
 ## Software architecht
 
 ### Staellium  
+
+October 2007 - June 2008
 
 Designed a secure messaging solution based on end-to-end encryption. Backend using Java/Spring, frontend YUI on web and J2ME mobile clients
 
@@ -84,9 +88,61 @@ Designed a secure messaging solution based on end-to-end encryption. Backend usi
 
 ### Airwide (formerly Schlumberger)
 
+October 2006 - Sept 2007
+
 Installed and supported Mobile Messaging (SMSC) platforms for major Telco operators (Vodafone, T-Mobile and other major european telcos)
 Developed internal tools to support linux installations
 Developed a kickstart solution to build systems, reducing drastically the installation times.
+
+
+## Network specialist
+
+### Vodafone
+
+April 2006 - October 2006
+
+TBD
+
+
+## Technical consultant/Project manager
+
+### Tektronix
+
+September 2004 - April 2006
+
+TBD
+
+## Messaging Competence Center Manager
+
+### Schulmberger
+
+March 2003 - September 2004
+
+TBD
+
+## Software developer
+
+### SemaGroup (formerly DS OpeN)
+
+1999 - 2003
+
+TBD
+
+
+## Software developer
+
+### Telecomunicazioni e Informatica
+
+1997 - 1999
+
+TBD
+
+# Contact
+
+You can follow me on twitter @oli77za, [stack overflow](http://stackoverflow.com/users/1306079/oliver)
+
+
+you can reach me directory on twitter (@oli77za) or by email oliver.zampieri(at)gmail.com
 
 
 
