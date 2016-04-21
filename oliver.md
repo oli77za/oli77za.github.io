@@ -20,7 +20,6 @@ Senior software developer, experience with full stack solutions, proficient Java
 
 **Linux kernel**: Have done C development in kernel modules for load balancing, and replicating traffic, on ethernet ports needed for scaling IP traffic monitoring systems.
 
-
 **Mobile**: Started working on mobile development with J2ME and Symbian. Have now accured extensive experience with Android on several commercial projects.
 
 **Databases**: Integration and MySQL, Oracle, MongoDB, Neo4J
@@ -41,40 +40,46 @@ Senior software developer, experience with full stack solutions, proficient Java
 
 **SMPP**: Developed several client server systems using SMPP 3.4 for sending and receiving short messages.
 
+**Mobile payment**: Mobile payment transactions to PSP (Payment service providers)
+
 # Experience
 
 ## Freelancer, founder and director
 
-### ZNetworks ltd.
+### ZNetworks ltd. (Reading/UK)
 
 Provide technical consultancy for medium and large companies, typically as a software architect and senior developer.
 
 ## Software developer
 
-### Tesco p.l.c.
+### Tesco p.l.c. (London/UK)
 
 Produce working prototypes of new components for web and mobile applications
-Design and develop an internal toolkit to share design artifacts within the organization.
-All the development is done using Meteor.JS, Currently migrating the view layer from Blaze to React
+Design and develop an internal toolkit to share design artifacts within the organization. All the development is done using Meteor.JS, Currently migrating the view layer from Blaze to React
+Migration of live services to AWS, defining what infrastructure is needed (VPCs, computing nodes, storage, databases etc.)
 
 ## Technican director
 
-### Mobile Worker Plus
+### Mobile Worker Plus (Ashford Middlesex/UK)
 
 Provided technical authority for own products and customer developments
-Developed scalable tracking solution for mobile workeforce management
+Designed and developed scalable tracking solution for mobile workeforce management. Backend solution developed in Java using Spring and Hibernate. Frontend client using Dojo/Dijit on the frontend and native apps on BlackBerry(deprecated) and Android
+Developed numerous custom information systems for clients using the following technologies: Spring/Hibernate, PHP/Symfony, Drupal, Angular, Dojo, JQuery
 Designed Mobile Payment solution based on android and integrating with Chip-and-PIN PED
-Designed the infrastructure setup for the operation of the company
+Designed the infrastructure setup for the operation of the company, including office based servers, networks and cloud solutions on AWS
 
 ## Senior software developer
 
-### SynergizeIT
+### SynergizeIT (Egham/UK)
 
 March 2011- October 2013
 
 Designed and developed internal and customer web products in Java.
 Designed and developed a low latency communications gateway to integrate into telco networks
 
+## System integration engineer
+
+### AlcatelLucent (Newbury/UK)
 ## Software architecht
 
 ### Staellium  
@@ -97,45 +102,52 @@ Developed a kickstart solution to build systems, reducing drastically the instal
 
 ## Network specialist
 
-### Vodafone
+### Vodafone (Newbury/UK)
 
 April 2006 - October 2006
 
-TBD
+Provided 2nd line support for HLR nodes in the Vodafone UK Network
+Supported the rollout of IN network nodes
 
 
 ## Technical consultant/Project manager
 
-### Tektronix
+### Tektronix (Bracknell/UK)
 
 September 2004 - April 2006
 
-TBD
+Provided technical assistance in the deployment of GSM/GPRS/UMTS monitoring systems
+Architecting and managing multi site deployments of large monitoring systems
+Configuration of analytics and data-mining platforms
+Liase with 3rd line support for investigation of service effecting problems
+
 
 ## Messaging Competence Center Manager
 
-### Schulmberger
+### Schulmberger (Budapest/Hungary)
 
 March 2003 - September 2004
 
-TBD
+Run a competence centre that provided support for SMSC and other GSM nodes to telco customers in central/eastern Europe and CIS
+Sales support
 
 ## Software developer
 
-### SemaGroup (formerly DS OpeN)
+### SemaGroup (formerly DS OpeN) (Rome/Italy)
 
 1999 - 2003
 
-TBD
-
+Developed a traffic monitoring syste,m for TelecomItalia. All the development was done in C++ with in-house built libraries
+Developed SNMP agents and management software for embedded devices for monitoring phone call routing devices
 
 ## Software developer
 
-### Telecomunicazioni e Informatica
+### Telecomunicazioni e Informatica (Rome/Italy)
 
 1997 - 1999
 
-TBD
+Develop for the Ericsson TMOS/OSS platform for operation support for Telecom Italia. All the development done in C++ on Solaris\
+Development for Cisco monitoring solutions based on HP OpenView, SNMP agents and Buisness Objects for data analytics
 
 # Contact
 
